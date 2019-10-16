@@ -1,0 +1,89 @@
+/* ESTILO GERAL*/
+body
+{
+	font-family: Helvetica, Arial;
+}
+h1, h2, h3
+{
+	font-family: 'Libre Baskerville', serif;
+}
+header
+{
+	background-color: #00C5CD;
+}
+header p
+{
+	text-align: justify;
+	padding: 20px;
+}
+main
+{
+	background-color: #00C5CD;
+}
+#titulo
+{
+	background-color: #008DA9;
+}
+#lista
+{
+	background-color: #00C5CD;
+}
+#conteudo
+{
+	background-color: #00FF7F;
+	text-align: center;
+}
+#navgeral
+{
+	
+	margin: 0px;
+	float: left;
+	background-color: #00C5CD;
+
+}
+#navgeral ul
+{
+	margin: 0px;
+	background-color:black;
+	list-style: none;
+	width: 158%;
+	display: inline-block;
+	text-align: center;
+	
+	height: 40px;
+	line-height: 40px;
+
+
+}
+#navgeral ul li 
+{
+	display: inline;
+
+}
+#navgeral ul li a
+{
+	
+	text-decoration: none;
+	color: white;
+	padding: 10px 10px;
+	border-bottom: 3px 
+	
+}
+#navgeral ul li a:hover
+{
+	background-color: #008DA9;
+	color: black;
+	border-bottom: 5px solid black;
+	border-color: black;
+}
+footer
+{
+	text-align: center;
+	background-color: #008DA9;
+}
+#img
+{
+	
+	right: 400px;
+	width: 400px;
+}
