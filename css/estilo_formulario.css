@@ -1,0 +1,40 @@
+body
+{
+	font-family: 'Jomolhari', serif;
+
+}
+h1
+{
+	background-color: #00C5CD;
+}
+fieldset
+{
+	width: 50px;
+	border-color: red;
+	background-color: #00C5CD;
+
+}
+input
+{
+	
+	border-color: blue;
+}
+option
+{
+	border-color: blue;
+
+}
+select
+{
+	border-color: blue;
+}
+textarea
+{
+	border-color: blue;
+}
+footer
+{
+	text-align: center;
+	color: red;
+
+}
