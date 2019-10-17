@@ -13,6 +13,8 @@ h1, h2, h3
 header
 {
 	background-color: #00C5CD;
+	padding: 0px;
+	margin: 0px;
 }
 header p
 {
